@@ -1,0 +1,7 @@
+c:\users\jahar\documents\visual studio 2015\Projects\OnlineTestForVenturas\DAL\bin\Debug\DAL.dll
+c:\users\jahar\documents\visual studio 2015\Projects\OnlineTestForVenturas\DAL\bin\Debug\DAL.pdb
+c:\users\jahar\documents\visual studio 2015\Projects\OnlineTestForVenturas\DAL\bin\Debug\Models.dll
+c:\users\jahar\documents\visual studio 2015\Projects\OnlineTestForVenturas\DAL\bin\Debug\Models.pdb
+c:\users\jahar\documents\visual studio 2015\Projects\OnlineTestForVenturas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\jahar\documents\visual studio 2015\Projects\OnlineTestForVenturas\DAL\obj\Debug\DAL.dll
+c:\users\jahar\documents\visual studio 2015\Projects\OnlineTestForVenturas\DAL\obj\Debug\DAL.pdb
